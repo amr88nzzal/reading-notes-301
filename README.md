@@ -12,4 +12,5 @@
 
 | Class     |    Repo Link     |   Github Page Link  |
 | :---:     | :--------------: | :-----------------: |
-| Class1    |     [Class-01]() |     [Class-01]()    |
+| Class1    |     [Class-01](https://github.com/amr88nzzal/reading-notes-301/blob/main/class01.md) |     [Class-01](https://amr88nzzal.github.io/reading-notes-301/class01)    |
+| Class1    |     [Class-02](https://github.com/amr88nzzal/reading-notes-301/blob/main/class02.md) |     [Class-02](https://amr88nzzal.github.io/reading-notes-301/class02)    |
