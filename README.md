@@ -17,3 +17,4 @@
 | Class3    |     [Class-03](https://github.com/amr88nzzal/reading-notes-301/blob/main/class03.md) |     [Class-03](https://amr88nzzal.github.io/reading-notes-301/class03)    |
 | Class4    |     [Class-04](https://github.com/amr88nzzal/reading-notes-301/blob/main/class04.md) |     [Class-04](https://amr88nzzal.github.io/reading-notes-301/class04)    |
 | Class5    |     [Class-05](https://github.com/amr88nzzal/reading-notes-301/blob/main/class05.md) |     [Class-05](https://amr88nzzal.github.io/reading-notes-301/class05)    |
+| Class6    |     [Class-06](https://github.com/amr88nzzal/reading-notes-301/blob/main/class06.md) |     [Class-06](https://amr88nzzal.github.io/reading-notes-301/class06)    |
