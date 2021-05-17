@@ -1,5 +1,6 @@
-## Mongo and Mongoose
+# SQL VS NoSQL
 ![img](https://qph.fs.quoracdn.net/main-qimg-f91d2e05aed7f788e43df2cd015743bf)
+
 | SQL      | NoSQL                                                            |
 | -----------  | ----------------------------------------------------------------|
 | SQL databases are primarily called as Relational Databases (RDBMS)          |NoSQL database are primarily called as non-relational or distributed database|
