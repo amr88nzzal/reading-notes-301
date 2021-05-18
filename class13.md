@@ -21,22 +21,17 @@ Learning how to read status can help you solve problems in your code quickly.
   **CRUD Table Example**: implemented via HTTPs methods
 
   | CRUD    | HTTP method   | Path        | Description     | Mongoose methods                    |
-  |--------	|-------------	|-----------	|----------------	|-----------------------------------	|
+  |--------	|-------------	|-----------|----------------	|------------------------------	|
   | Read   	| GET         	| `/cats`     | get all  cats  	| `Cat.find( )`                       |
-  | Read   	| GET         	| `/cats/:id`	| get one cat    	| `Cat.find({_id:id})`               	|
+  | Read   	| GET         	| `/cats/:id`	| get one cat    	| `Cat.find({_id:id})`            |
   | Create 	| POST        	| `/cats`     | create one cat 	| `new Cat( )      .save( )`          |
   | Delete 	| DELETE      	| `/cats/:id` | Delete one cat 	| `Cat.findAndDelete`                 |
   | Update 	| PUT         	| `/cats/:id` | Update one cat 	| `Cat.find      (make changes).save` |
-  |        	|             	|           	|                	| **Cat is the Mongoose model**       |
-
-
-  - Create: In the REASTful APIs use `POST` to create new resources or access tokens.
-
-  - Read: In the REASTful APIs use `GET` method use to fetch resource representations.
-
-  - Update: In the REASTful APIs use `PUT` method use to update or replace old with new resource
-
-  - Delete: In the REASTful APIs use `DELETE` method use to delete resource
+ --
+- Create: In the REASTful APIs use `POST` to create new resources or access tokens.
+- Read: In the REASTful APIs use `GET` method use to fetch resource representations.
+- Update: In the REASTful APIs use `PUT` method use to update or replace old with new resource
+- Delete: In the REASTful APIs use `DELETE` method use to delete resource
 
 2. What is a status code 202?
 
